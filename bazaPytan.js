@@ -1,4 +1,4 @@
-const bazaPytan = [
+window.bazaPytan = [
     {
         tresc: "Jaka jest stolica Polski?",
         odpowiedzi: ["Kraków", "Warszawa", "Gdańsk", "Poznań"],
